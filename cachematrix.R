@@ -5,7 +5,7 @@
 ## A pair of functions that cache the inverse of a matrix
 
 makeCacheMatrix <- function( m = matrix() ) {
-## Initialize the inverse property
+## Initializes the inverse property
 i <- NULL
 ## Method to set the matrix
 set <- function( matrix ) {
